@@ -1,0 +1,11 @@
+-
+  name: xuzhu
+  age: '14'
+  sexual: male
+  hobby:
+    - 机车
+    - 泰拳
+    - 拳击
+  address:
+    长沙: xxx
+#    衡阳: sss

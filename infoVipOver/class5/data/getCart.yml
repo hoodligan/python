@@ -1,0 +1,22 @@
+-
+  title: 添加购物车
+  request:
+    method: post
+    url: http://39.98.138.157:5000/api/addcart
+    param_type: json
+  data:
+    openid:
+    productid:
+    userid:
+  exmsg: 45233
+
+#-
+#  title: 登录接口
+#  request:
+#    method: post
+#    url: http://39.98.138.157:5000/api/login
+#    param_type: json
+#  data:
+#    "password": "1234568"
+#    "username": "admin"
+#  exmsg: "success1"

@@ -1,0 +1,10 @@
+#yaml文件用#代表注释
+#username: admin
+#password: 123456
+
+#字典嵌套字典
+#{person:{name:'秋水',age:18}}
+person:
+  name: 秋水
+  age: 18
+address: changsha

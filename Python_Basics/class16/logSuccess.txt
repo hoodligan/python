@@ -1,0 +1,8 @@
+(p≧w≦q) === 2022-03-31 22:12:31 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(open) <SUCCESS> LINE-5 *MSG==√成功打开网址 ===
+(p≧w≦q) === 2022-03-31 22:12:31 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(on_input) <SUCCESS> LINE-6 *MSG==√成功输入内容 ===
+(p≧w≦q) === 2022-03-31 22:12:35 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(on_click) <SUCCESS> LINE-8 *MSG==√成功点击 ===
+(p≧w≦q) === 2022-03-31 22:13:33 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(open) <SUCCESS> LINE-5 Arguments={'args': (<class16.base1.BasePage object at 0x0000022EDC9BA1F0>, 'http://www.baidu.com'), 'kwargs': {}} *MSG==√成功打开网址===
+(p≧w≦q) === 2022-03-31 22:13:33 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(on_input) <SUCCESS> LINE-6 Arguments={'args': (<class16.base1.BasePage object at 0x0000022EDC9BA1F0>, 'id', 'kw', '秋水'), 'kwargs': {}} *MSG==√成功输入内容===
+(p≧w≦q) === 2022-03-31 22:13:36 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(on_click) <SUCCESS> LINE-8 Arguments={'args': (<class16.base1.BasePage object at 0x0000022EDC9BA1F0>, 'id', 'su'), 'kwargs': {}} *MSG==√成功点击===
+(p≧w≦q) === 2022-03-31 22:14:11 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(open) <SUCCESS> LINE-5 Arguments={'args': (<class16.base1.BasePage object at 0x000001ED29CB0280>, 'http://www.baidu.com'), 'kwargs': {}} *MSG==√成功打开网址===
+(p≧w≦q) === 2022-03-31 22:14:15 FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py) FUNC-(on_click) <SUCCESS> LINE-8 Arguments={'args': (<class16.base1.BasePage object at 0x000001ED29CB0280>, 'id', 'su'), 'kwargs': {}} *MSG==√成功点击===

@@ -1,0 +1,26 @@
+环境安装：
+1.安装python  官网选择下载安装包   注意：勾选add to path   在cmd里面验证  输入python  python版本号
+2.安装pycharm  官网下载社区版    安装   新建项目  选择本地环境
+3.安装selenium  在cmd里面 输入 pip install selenium  检测有没有装好  pip list
+4.下载谷歌驱动  谷歌浏览器什么版本 在网址里面找到版本下载  放在python安装目录下
+
+6期群文件找
+
+pycharm使用
+
+背景颜色：File -> Settings -> appearance -> Theme
+设置字体：File - Settings - Editor - Font
+
+设置文件备注：File --> Settings --> Editor --> Code Style --> File and Code Templates --> Python Script
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : ${DATE} ${TIME}
+# @Author  : 秋水
+# @File    : ${NAME}.py
+# @Software: ${PRODUCT_NAME}
+
+不要用中文，首字母不要数字开头，不要用关键字；if as selenium：名字 见名之意  用英文 加下划线
+项目名称：首字母大写  驼峰命名法
+文件名：小写字母
+包名：小写字母
+类名：首字母大写

@@ -1,0 +1,6 @@
+========2022-03-31 22:14:11 *FUNC_NAME=(on_input) *FILE_PATH=(D:/cmVip/CmVip0224/class16/test.py)========
+*Arguments={'args': (<class16.base1.BasePage object at 0x000001ED29CB0280>, 'id2', 'kw', '秋水'), 'kwargs': {}}
+*ERRO_INFO=(Message: invalid argument: invalid locator
+  (Session info: chrome=99.0.4844.84)
+)
+

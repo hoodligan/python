@@ -1,0 +1,3 @@
+2022-03-31 20:54:21,674 base.py on_input INFO 通过idkw输入秋水
+2022-03-31 20:55:25,063 base.py on_input INFO 通过idkw输入秋水
+2022-03-31 20:55:28,137 base.py on_click INFO 通过idsu进行了点击

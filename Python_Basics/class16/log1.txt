@@ -1,0 +1,21 @@
+调试的日志信息
+正常日志信息
+警告的日志信息
+错误的日志信息
+严重的日志信息
+调试的日志信息
+正常日志信息
+警告的日志信息
+错误的日志信息
+严重的日志信息
+2022-03-31 21:32:36,958 demo2.py <module> DEBUG 调试的日志信息
+2022-03-31 21:32:36,959 demo2.py <module> INFO 正常日志信息
+2022-03-31 21:32:36,959 demo2.py <module> WARNING 警告的日志信息
+2022-03-31 21:32:36,959 demo2.py <module> ERROR 错误的日志信息
+2022-03-31 21:32:36,959 demo2.py <module> CRITICAL 严重的日志信息
+2022-03-31 21:36:33,290 base.py open INFO 访问http://www.baidu.com
+2022-03-31 21:36:34,024 base.py on_input INFO 通过idkw输入秋水
+2022-03-31 21:36:37,091 base.py on_click INFO 通过idsu进行了点击
+2022-03-31 21:39:05,739 base.py open INFO 访问http://www.baidu.com
+2022-03-31 21:39:06,491 base.py on_input INFO 通过idkw输入秋水
+2022-03-31 21:39:09,563 base.py on_click INFO 通过idsu进行了点击

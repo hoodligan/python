@@ -1,0 +1,18 @@
+# [{'id':1,'name':'小翠','age':18},{'id':2,'name':'小花','age':19}]
+#-
+#  id: 1
+#  name: 小翠
+#  age: 18
+#-
+#  id: 2
+#  name: 小花
+#  age: 19
+
+id: 1
+name: 小翠
+age: 18
+sex: 女
+data:
+  - 1
+  - 2
+address: chasha
